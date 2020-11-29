@@ -1,0 +1,101 @@
+.robot-background{
+    background:url('img/background.svg');
+    background-repeat: no-repeat;
+    background-position: top center;
+    position: relative;
+    width:1000px;
+    height:700px;
+    margin:auto;
+}
+.robot-frame{
+    width:300px;
+    position: absolute;
+    top: 33px;
+    right: 501px;
+}
+.img2{
+    max-width: 55px;
+    position: absolute;
+    top: 309px;
+    right: 269px;
+}
+.img2-new{
+    max-width: 55px;
+    position: absolute;
+    top: 63px;
+    right: 621px;
+}
+.img4{
+    max-width: 65px;
+    position: absolute;
+    top: 136px;
+    right: 158px;
+}
+.img4-new{
+    max-width: 65px;
+    position: absolute;
+    top: 112px;
+    right: 708px;
+}
+.img5{
+    max-width: 145px;
+    position: absolute;
+    top: 162px;
+    right: 216px;
+}
+.img5-new{
+    max-width: 145px;
+    position: absolute;
+    top: 122px;
+    right: 578px;
+}
+.img6{
+    max-width: 65px;
+    position: absolute;
+    top: 136px;
+    right: 77px;
+}
+.img6-new{
+    max-width: 65px;
+    position: absolute;
+    top: 112px;
+    right: 530px;
+}
+.img8a{
+    max-width: 65px;
+    position: absolute;
+    top: 183px;
+    right: 410px;
+}
+.img8a-new{
+    max-width: 65px;
+    position: absolute;
+    top: 246px;
+    right: 664px;
+}
+.img8b{
+    max-width: 65px;
+    position: absolute;
+    top: 183px;
+    right: 339px;
+}
+.img8b-new{
+    max-width: 65px;
+    position: absolute;
+    top: 246px;
+    right: 572px;
+}
+.items{
+    height:100px;
+}
+.items-leg{
+    height:200px;
+}
+
+.modal-content{
+    background:transparent;
+    border:none;
+}
+.modal-dialog{
+    max-width: 700px;
+}
